@@ -1,12 +1,5 @@
 # Loan Prediction
 
-# Pre-requisites
-
-- Basic experience with training a machine learning model using scikit-learn or xgboost
-- Basic experience with serving a pretrained using flask
-- Basic familiarity with Postgressql
-- Experience with docker and docker-compose
-- Basic statistics on hypothesis testing
 
 ### Note: This project requires the data to be present in postgres server.
 
@@ -14,7 +7,7 @@ The data is available in code>main>dags>data>raw location.
 
 Kindly upload the data and provide the appropriate credentials in code>main>dags>creds.json file.
 
-## 1. What's new?
+## 1. Overview
 
 ML pipeline monitoring using:
 
